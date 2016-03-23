@@ -1,2 +1,2 @@
 # Vray-Chocolate-Material
-Plugin to create vray mtl
+This is a plugin to create Chocolate Shader based on VRayFastSSS2 Material options.
